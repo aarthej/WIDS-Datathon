@@ -4,6 +4,7 @@
 Collaborators: 
 - Aarthe Jayaprakash
 - Chaitanya Chaphalkar
+- Eashani Deorukhkar
 
 In this data science challenge, we are focusing on predicting mortality rate for patients visiting Intensive Care Units.
 Data has been provided by Harvard Privacy Lab, which included data from 130,000 visits to the ICU and it spans over a one year timeframe. The dataset has 91,713 rows and 186 columns.
